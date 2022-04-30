@@ -98,7 +98,7 @@ function loop() {
     if (isReadyAnimation) {
         spheres[0].Draw(ctx);
         spheres[0].RotateAxisY(rotation);
-        rotation += 0.05;
+        rotation += 0.005;
     }
     requestAnimationFrame(loop);
 }
