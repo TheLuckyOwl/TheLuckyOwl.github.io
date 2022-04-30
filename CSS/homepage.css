@@ -84,4 +84,6 @@ body {
 canvas {
     display: block;
     background: #000;
+    height: 100%;
+    margin-left: 250px;
 }
