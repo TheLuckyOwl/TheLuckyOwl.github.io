@@ -20,6 +20,7 @@ body {
     width: 100%;
     position: relative;
     margin-right: 0;
+    background: #000;
 }
 
 /* Sidebar Styles */
@@ -76,3 +77,6 @@ body {
     margin-right: 16px;
 }
 
+canvas {
+    display: block;
+}
