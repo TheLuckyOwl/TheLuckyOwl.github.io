@@ -76,6 +76,11 @@ body {
     margin-right: 16px;
 }
 
+#contentHeader {
+    text-align: right;
+    color: #fff;
+}
+
 canvas {
     display: block;
     background: #000;
