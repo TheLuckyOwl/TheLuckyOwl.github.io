@@ -81,6 +81,12 @@ body {
     color: #fff;
 }
 
+h3 {
+    color: #fff;
+    display: block;
+    text-decoration: none;
+}
+
 canvas {
     display: block;
     background: #000;
